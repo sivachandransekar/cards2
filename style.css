@@ -1,0 +1,61 @@
+*{
+    padding: 0px;
+	margin:0px;
+	box-sizing:border-box;
+}
+.headdiv{
+	 
+     height: 150px;
+     border-radius: 19px 19px 0px 0px;
+	 background-color:#0000ff;
+	 text-align: center;
+     padding-top: 50px;
+}
+
+div h1{
+	color: #ffffff;
+    /* font-weight: 700; */
+    font-size: 36px;
+
+}
+.bodydiv{
+	text-align:center;
+	
+}
+.bodydiv p{
+	 padding-top:20px;
+	 font-size:25px;
+}
+.bodydiv span{
+	 font-size:43px;
+	 color:#0000ff;
+	 font-weight:bold;
+	 
+} 
+.monthpara{
+	color: #F5F5DC;
+}
+
+.masspara{
+	color: beige;
+	
+}
+.footerdiv{
+	height: 150px;
+    margin-top:20px;
+	text-align:center;
+	background-color:#F5F5DC.;
+}
+.btn button{
+	height: 57px;
+    width: 189px;
+    margin-top: 50px;
+    background-color: #0000ff;
+	border:none;
+}
+.btn a{
+	 text-decoration:none;
+	 
+     color: #ffffff;
+     font-size: 26px;
+}
